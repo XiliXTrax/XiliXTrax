@@ -2,9 +2,9 @@
 - 👀 I am currently learning to program with python 🐍
 - 🌱 At the moment, I am creating a website, which will list all my creations with the python language 🌐
 - 📫 Here is how to reach me: 
-                                  twitter --> @XiliXTrax
-                                  snap --> maelrls
-                                  discord --> TRAX®#0317
+                                  twitter --> @XiliXTrax // 
+                                   snap --> maelrls // 
+                                   discord --> TRAX®#0317 //
 
 ----------------------------------------------------------------------------------------------------------------------------
 
